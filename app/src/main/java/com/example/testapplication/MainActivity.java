@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
     TextView textView;
-    TextView textView1;
 
 
     @Override
