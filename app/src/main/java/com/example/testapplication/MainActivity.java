@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity
     TextView textView;
     Button b;
     Button b1;
-    TextView textView5;
+    TextView textView6;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
