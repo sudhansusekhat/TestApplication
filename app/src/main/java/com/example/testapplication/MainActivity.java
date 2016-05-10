@@ -19,8 +19,6 @@ public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
     TextView textView;
-    TextView textView3;
-
     Button b;
     Button b1;
     TextView textView2;
