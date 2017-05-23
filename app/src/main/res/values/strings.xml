@@ -1,8 +1,40 @@
 <resources>
-    <string name="app_name">TestApplication</string>
+    <string name="app_name">Fydo</string>
+
+    <bool name="portrait_only">true</bool>
+    <string name="title_activity_splashscreen">Splashscreen</string>
+    <string name="title_activity_domain_activity">Domain_activity</string>
+    <string name="title_activity_main2">Main2Activity</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="val_18plus_dateofbirth">Unfortunately you have to be 21 years or older! Don’t forget to come back to us when you hit that milestone!</string>
+
 
     <string name="action_settings">Settings</string>
+    <string name="title_login">Login</string>
+    <string name="title_security_code">Code verification</string>
+    <string name="title_forgot_pwd">Forgot Password</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_code">Security Code</string>
+    <string-array name="Relationship_List">
+
+        <item>Select Relationship</item>
+        <item>Brother</item>
+        <item>Carer</item>
+        <item>Daugheter</item>
+        <item>EPOA</item>
+        <item>Father</item>
+        <item>Grd Parent</item>
+        <item>Guardian</item>
+        <item>Husband</item>
+        <item>Mother</item>
+        <item>Other</item>
+        <item>Partner</item>
+        <item>Self</item>
+        <item>Son</item>
+        <item>Stp Parent</item>
+        <item>Wife</item>
+
+    </string-array>
 </resources>

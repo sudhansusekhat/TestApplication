@@ -1,9 +1,42 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <bool name="abc_config_actionMenuItemAllCaps" tools:override="true">false</bool>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dp1">1dp</dimen>
+    <dimen name="dp2">2dp</dimen>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="dp7">7dp</dimen>
+    <dimen name="dp8">8dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp12">12dp</dimen>
+    <dimen name="dp15">15dp</dimen>
+    <dimen name="dp60">60dp</dimen>
+    <dimen name="dp50">50dp</dimen>
+    <dimen name="dp30">30dp</dimen>
+    <dimen name="dp35">35dp</dimen>
+    <dimen name="dp38">38dp</dimen>
+    <dimen name="dp40">40dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="dp25">25dp</dimen>
+
+
+    <dimen name="sp_15">15sp</dimen>
+    <dimen name="sp_10">10sp</dimen>
+
+
+    <dimen name="pt_45">11.25sp</dimen>
+    <dimen name="pt_50">12.5sp</dimen>
+    <dimen name="pt_52">13sp</dimen>
+    <dimen name="pt_55">13.75sp</dimen>
+    <dimen name="pt_56">14sp</dimen>
+    <dimen name="pt_58">14.50sp</dimen>
+    <dimen name="pt_64">16sp</dimen>
+    <dimen name="pt_70">17.50sp</dimen>
+
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="nav_header_vertical_spacing">16dp</dimen>
     <dimen name="nav_header_height">160dp</dimen>
-    <!-- Default screen margins, per the Android Design guidelines. -->
-    <dimen name="activity_horizontal_margin">16dp</dimen>
-    <dimen name="activity_vertical_margin">16dp</dimen>
-    <dimen name="fab_margin">16dp</dimen>
 </resources>
